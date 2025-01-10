@@ -18,7 +18,9 @@ structure for learning front-end web development.
 ## How to Run
 To view or use this project locally, follow these steps:<br/>
 1. Clone the repository:<br/>
+```bash
 git clone https://github.com/Drushti008/Amazon-frontpage.git
+```
 2. Open the index.html file in your browser. <br/>
 
 ## Screenshots
